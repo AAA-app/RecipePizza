@@ -7,7 +7,7 @@ public class PizzaItem {
     private String description;
     private String recipe;
 
-    public PizzaItem() {
+    public PizzaItem(int pizza1, String string, String s) {
 
     }
 

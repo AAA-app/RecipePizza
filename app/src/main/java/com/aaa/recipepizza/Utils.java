@@ -6,7 +6,10 @@ public class Utils {
                "Yeast pizza with sausage, tomato and cheese";
        static final String PIZZA_1_DESCRIPTION = "\n" +
                "Yeast pizza with sausage, tomato and cheese\n" +
-               "To make pizza from yeast dough at home is not difficult! The main thing is that the dough is successful, then the pizza will disappear from the table before it has cooled. The dough that I will show you today is just one of those. It will make equally good both a thick and thin base for pizza. And the filling in this case is traditional - sausage, sweet pepper, tomatoes and cheese. Yeast pizza was a success!";
+               "To make pizza from yeast dough at home is not difficult! The main thing is that the dough is successful, then the pizza will " +
+               "disappear from the table before it has cooled. The dough that I will show you today is just one of those. It will make " +
+               "equally good both a thick and thin base for pizza. And the filling in this case is traditional - sausage, sweet pepper, " +
+               "tomatoes and cheese. Yeast pizza was a success!";
        static final String PIZZA_1_RECIPE = "Products (2 servings)\n" +
                "For the test:\n" +
                "Flour - 150 g\n" +

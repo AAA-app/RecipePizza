@@ -3,12 +3,12 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:layout_marginTop="4dp"
+    android:padding="4dp"
     app:cardCornerRadius="4dp">
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="190dp"
         android:padding="8dp">
 
         <ImageView
@@ -26,14 +26,11 @@
             android:layout_height="wrap_content"
             android:gravity="center_vertical"
             android:paddingLeft="8dp"
-            android:paddingTop="4dp"
             android:paddingRight="8dp"
-            android:paddingBottom="4dp"
             android:text="TextView"
             android:textSize="14sp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toEndOf="@+id/pizza_imageView"
             app:layout_constraintTop_toTopOf="parent" />
 
